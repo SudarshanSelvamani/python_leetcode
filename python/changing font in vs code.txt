@@ -1,0 +1,13 @@
+variable.parameter.function { "foreground": "#7fdbca", "fontStyle": "" }
+variable.parameter.function.language.python
+meta.function.parameters.python
+meta.function.python
+source.python
+
+
+
+
+entity.name.function { "foreground": "#82AAFF", "fontStyle": "italic" }
+entity.name.function.python
+meta.function.python
+source.python
