@@ -5,7 +5,7 @@
 
 import random
 
-WORDLIST_FILENAME = "d:/Visual/Mit_python_course/words.txt" #the path of the file
+WORDLIST_FILENAME = "words.txt" #the path of the file
 
 def loadWords():
     """
